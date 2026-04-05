@@ -1,17 +1,19 @@
 <h1 align="center">
-  
   &nbsp;&nbsp;&nbsp;SOURCERY&nbsp;&nbsp;&nbsp;
+
 </h1>
 
 <div align="center">
-  <strong>ASSOCIATION FOR COMPUTER MACHINERY - Indira Gandhi Delhi Technical University for Women</strong>
+  <strong>ASSOCIATION FOR COMPUTER MACHINERY - Indira Gandhi Delhi Technical University for Women</strong> <br/> <br/>
   
+  <img width="1600" height="528" alt="image" src="https://github.com/user-attachments/assets/da663bb9-57dd-4ba9-a684-c9620b75c7b9" /> <br/>
   <br><br>
   <a href="https://www.instagram.com/acm_igdtuw/"><img src="https://img.shields.io/badge/Instagram%20-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/company/acm-student-chapter-igdtuw/"><img src="https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/AcmIgdtuw"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://discord.gg/W5M94GTFeF"><img src="https://img.shields.io/badge/Discord%20-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
+
 
 ---
 
@@ -26,7 +28,25 @@
 
 ---
 
-### Project List
+## Project List
+
+| S.No | Project                  | Domain / Tech Stack                                                                 | Project GitHub Link                                                                 | Maintainer                                                                 |
+|------|--------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| 1    | Campus Smart Navigator   | Frontend, Backend, AI/ML, UI/UX, Testing                                           | [Campus Smart Navigator Repository](https://github.com/aayushi-singhhh/campus-compass) | [Aayushi Singh](https://github.com/aayushi-singhhh/)                          |
+| 2    | Curloz Engine            | Frontend, UI/UX                                                                    | [Curloz Engine Repository](https://github.com/curloz123/curloz-engine)              | [Aditya Saini](http://github.com/curloz123)                                   |
+| 3    | SPEED - Secure Process   | Backend, Testing                                                                   | [SPEED Repository](https://github.com/SharonIV0x86/SPEED/)                          | [Anirudh Lakhanpal](https://github.com/SharonIV0x86/)                         |
+| 4    | Study Sync               | Backend                                                                            | [Study Sync Repository](https://github.com/HarshitaGupta1002/study-sync)            | [Rashmi Yadav](https://github.com/16701012024rash)                            |
+| 5    | ShieldTrip              | Frontend, UI/UX, Testing                                                           | [ShieldTrip Repository](https://github.com/drishtichaudhary/ShieldTrip-App)         | [Drishti Chaudhary](https://github.com/drishtichaudhary)                      |
+| 6    | AI for India            | Frontend, Backend, AI/ML, UI/UX, Testing                                           | [AI for India Repository](https://github.com/Surabhi210/AI_for_India)               | [Surabhi Sethi](https://github.com/Surabhi210)                                |
+| 7    | PhishGuard Extension    | Frontend, Backend, AI/ML                                                           | [PhishGuard Repository](https://github.com/Vnshk-sharma/phishguard-extension)       | [Vanshika Sharma](https://github.com/Vnshk-sharma)                            |
+| 8    | GiftMyWay               | Backend, AI/ML                                                                     | [GiftMyWay Repository](https://github.com/LakshitaAgg15/GiftMyWay)                  | [Lakshita Aggarwal](https://github.com/LakshitaAgg15)                         |
+| 9    | BiblioDrift             | AI/ML, UI/UX, Testing                                                              | [BiblioDrift Repository](https://github.com/devanshi14malhotra/BiblioDrift)         | [Devanshi Malhotra](https://github.com/devanshi14malhotra)                    |
+| 10   | Habit Tracker           | AI/ML, UI/UX, Testing                                                              | [Habit Tracker Repository](https://github.com/Charushi06/Habit-Tracker)             | [Charushi](https://github.com/Charushi06)                                     |
+| 11   | GitCanvas               | AI/ML, UI/UX                                                                       | [GitCanvas Repository](https://github.com/devanshi14malhotra/GitCanvas)             | [Devanshi Malhotra](https://github.com/devanshi14malhotra)                    |
+| 12   | Sidequest Hub           | Frontend                                                                           | [Sidequest Hub Repository](https://github.com/harleen05/sidequest-hub)              | [Harleen Kaur](https://github.com/harleen05)                                  |
+| 13   | NyayaZephyrs            | Backend, AI/ML, Testing                                                            | [NyayaZephyrs Repository](https://github.com/atharvavdeo/NyayaZephyrs)              | [Atharva Deo](https://github.com/atharvavdeo/)                                |
+| 14   | PlanetQuest             | Frontend, UI/UX                                                                    | [PlanetQuest Repository](https://github.com/archangel2006/PlanetQuest)              | [Vaibhavi Srivastava](https://github.com/archangel2006/)                      |
+| 15   | Dev Cheatsheet          | Frontend, Backend                                                                  | [Dev Cheatsheet Repository](https://github.com/rabbikazmi/dev-cheatsheet-)          | [Rabbika Azmi](https://github.com/rabbikazmi)                                 |
 
 ### Why Participate?
 
